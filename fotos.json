@@ -1,0 +1,80 @@
+{
+  "Augusto Cury (Avante)": {
+    "foto": "assets/candidatos/280002551547.jpg",
+    "id_tse": "280002551547",
+    "numero": "70",
+    "nome_urna": "ESCRITOR AUGUSTO CURY"
+  },
+  "Clariana Barão (DC)": {
+    "foto": "assets/candidatos/280002552484.jpg",
+    "id_tse": "280002552484",
+    "numero": "27",
+    "nome_urna": "CLARIANA BARAO"
+  },
+  "Edmilson Costa (PCB)": {
+    "foto": "assets/candidatos/280002551975.jpg",
+    "id_tse": "280002551975",
+    "numero": "21",
+    "nome_urna": "EDMILSON COSTA"
+  },
+  "Flávio Bolsonaro (PL)": {
+    "foto": "assets/candidatos/280002551544.jpg",
+    "id_tse": "280002551544",
+    "numero": "22",
+    "nome_urna": "FLAVIO BOLSONARO"
+  },
+  "Hertz Dias (PSTU)": {
+    "foto": "assets/candidatos/280002541457.jpg",
+    "id_tse": "280002541457",
+    "numero": "16",
+    "nome_urna": "HERTZ DIAS"
+  },
+  "Leonardo Avalanche (PRTB)": {
+    "foto": "assets/candidatos/280002554479.jpg",
+    "id_tse": "280002554479",
+    "numero": "28",
+    "nome_urna": "LEONARDO AVALANCHE"
+  },
+  "Lula (PT)": {
+    "foto": "assets/candidatos/280002542548.jpg",
+    "id_tse": "280002542548",
+    "numero": "13",
+    "nome_urna": "LULA"
+  },
+  "Renan Santos (Missão)": {
+    "foto": "assets/candidatos/280002540694.jpg",
+    "id_tse": "280002540694",
+    "numero": "14",
+    "nome_urna": "RENAN SANTOS"
+  },
+  "Ronaldo Caiado (PSD)": {
+    "foto": "assets/candidatos/280002551932.jpg",
+    "id_tse": "280002551932",
+    "numero": "55",
+    "nome_urna": "RONALDO CAIADO"
+  },
+  "Romeu Zema (Novo)": {
+    "foto": "assets/candidatos/280002539826.jpg",
+    "id_tse": "280002539826",
+    "numero": "30",
+    "nome_urna": "ZEMA"
+  },
+  "Rui Costa Pimenta (PCO)": {
+    "foto": "assets/candidatos/280002552487.jpg",
+    "id_tse": "280002552487",
+    "numero": "29",
+    "nome_urna": "RUI COSTA PIMENTA"
+  },
+  "Samara Martins (UP)": {
+    "foto": "assets/candidatos/280002538811.jpg",
+    "id_tse": "280002538811",
+    "numero": "80",
+    "nome_urna": "SAMARA"
+  },
+  "Wilson Grassi (Democrata)": {
+    "foto": "assets/candidatos/280002548139.jpg",
+    "id_tse": "280002548139",
+    "numero": "35",
+    "nome_urna": "VETERINÁRIO WILSON GRASSI"
+  }
+}
